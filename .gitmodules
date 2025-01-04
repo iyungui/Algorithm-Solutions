@@ -1,0 +1,6 @@
+[submodule "baekjoon"]
+	path = baekjoon
+	url = https://github.com/iyungui/TIL-BOJ.git
+[submodule "codetree"]
+	path = codetree
+	url = https://github.com/iyungui/TIL-codetree.git
