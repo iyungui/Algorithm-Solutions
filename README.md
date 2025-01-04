@@ -3,8 +3,8 @@
 This repository contains my solutions for algorithm problems from various platforms.
 
 ## Platforms
-- [Baekjoon Online Judge](./baekjoon)
-- [CodeTree](./codetree)
+- Baekjoon Online Judge
+- CodeTree
 
 ## Directory Structure
 ```bash
